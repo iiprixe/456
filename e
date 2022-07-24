@@ -5,7 +5,7 @@ getgenv().autolevel = false;
 local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
 
 local X = Material.Load({
-    Title = "[Stormzzys Script] </> Egg Farm Sim",
+    Title = "[Stormzzys Scripts] </> Egg Farm Sim",
     Style = 1,
     SizeX = 370,
     SizeY = 300,
